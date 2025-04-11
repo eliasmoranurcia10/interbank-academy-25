@@ -30,10 +30,10 @@ node procesamientoTransacciones.js
 
 ## 🧩 Enfoque y Solución
 
-### 📎 Se utilizó el módulo "csv-parser" para leer el archivo CSV de manera eficiente.
-### 📎 Las transacciones se almacenan en un arreglo y se recorren con .map() para sumar montos por tipo, contar montos e identificar la transacción con mayor monto.
-### 📎 Se Calcula el Balance Final.
-### 📎 Se imprime un reporte claro y estructurado en consola.
+    1. Se utilizó el módulo "csv-parser" para leer el archivo CSV de manera eficiente.
+    2. Las transacciones se almacenan en un arreglo y se recorren con .map() para sumar montos por tipo, contar montos e identificar la transacción con mayor monto.
+    3. Se Calcula el Balance Final.
+    4. Se imprime un reporte claro y estructurado en consola.
 
 ## 🗂️ Estructura del Proyecto
 
